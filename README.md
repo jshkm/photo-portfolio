@@ -24,4 +24,4 @@ From literal sketches:
 Welcome to the back end of my photo portfolio! Developed with Python and a Flask app back end. I use this to communicate from my frontend to Stripe, and then my Printing Service to print and ship each photo!
 
 ## Architecture Diagram
-![PhotoWebsite](https://github.com/user-attachments/assets/ea6209a9-403a-4c9c-b4fd-2e193817418c)
+![PhotoWebsite (1)](https://github.com/user-attachments/assets/97256b8b-f219-492c-8263-046d54d20f53)
