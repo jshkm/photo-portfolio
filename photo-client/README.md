@@ -9,11 +9,11 @@ From literal sketches:
 
 <img src="https://github.com/user-attachments/assets/9e72fa27-d53b-4e59-9b6f-866c3ff8f317" alt="Sketch" height="500px">
 
-<br>To a Figma I designed:
+<br>To a [Figma](https://www.figma.com/design/4hINNJCweimLTG2dOtxub5/Photo-Portfolio?node-id=0-1&t=JAcf5qzVGPkfOvIq-1) I designed:
 
 <img src="https://github.com/user-attachments/assets/6af47d62-b297-4c06-93eb-6b4d7dd7797f" alt="Figma 1st Draft" height="500px">
 
-<br>To a redesign by the talented [Amanda Wang](https://www.linkedin.com/in/amanda-y-wang/)!
+<br>To a [redesign](https://www.figma.com/design/JFR64tayCS6Zc3KtDX5I6K/josh-photo-portfolio?node-id=0-1&t=lRp0ZUSvGEuWnkbk-1) by the talented [Amanda Wang](https://www.linkedin.com/in/amanda-y-wang/)!
 
 <img src="https://github.com/user-attachments/assets/f80e0f9d-dbed-4233-94ed-3ffc6887ae3a" alt="Figma Final Draft" height="500px">
 
