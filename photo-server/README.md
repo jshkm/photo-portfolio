@@ -3,4 +3,4 @@ Welcome to the back end of my photo portfolio! Developed with Python and a Flask
 <br> Check out the final website [here](https://www.jshkmphoto.com/)!
 
 ## Architecture Diagram
-![PhotoWebsite](https://github.com/user-attachments/assets/ea6209a9-403a-4c9c-b4fd-2e193817418c)
+![PhotoWebsite (1)](https://github.com/user-attachments/assets/97256b8b-f219-492c-8263-046d54d20f53)
